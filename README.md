@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-# 💫 About Me:
+# 💻 About Me:
 I'm Max, a student who loves to code and is always looking to learn something new. 💻📚 I'm passionate about software development and enjoy working on projects that challenge me to grow and expand my skill set. 
 
 When I'm not coding, you can usually find me exploring the great outdoors 🏞️, listening to music 🎵, or reading a good book 📖. 
