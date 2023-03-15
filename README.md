@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **c#, reactjs, typescript and tailwind**
 
-- 📫 How to reach me **89127@glr.nl**
+- 📫 How to reach me **maxbenschop1@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
