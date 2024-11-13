@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Smingle](https://dev.smingle.nl/)<br>🌱 I’m currently learning **React, Swift, Electron, Typescript**<br>👨‍💻 All of my projects are available at [https://github.com/maxbenschop?tab=repositories](https://github.com/maxbenschop?tab=repositories)<br>💬 Ask me about **Javascript, PHP**<br>📫 How to reach me **maxbenschop1@gmail.com**<br>📄 Know about my experiences [https://github.com/maxbenschop/maxbenschop/blob/main/CV-2024-UPDATED.pdf](https://github.com/maxbenschop/maxbenschop/blob/main/CV-2024-UPDATED.pdf)
+🔭 I’m currently working on [Smingle](https://dev.smingle.nl/)<br>🌱 I’m currently learning **React, Swift, Electron, Typescript**<br>👨‍💻 All of my projects are available at [https://github.com/maxbenschop?tab=repositories](https://github.com/maxbenschop?tab=repositories)<br>💬 Ask me about **Javascript**<br>📫 How to reach me **maxbenschop1@gmail.com**
 
 
 ## 🌐 Socials:
